@@ -5,4 +5,4 @@
     - include_role:
         name: network-backup
       vars:
-        network_backup_repository: 'git@github.com:repo/backups.git'
+        network_backup_repository: 'git@github.com:colin-mccarthy/ansible_network_backups.git'
