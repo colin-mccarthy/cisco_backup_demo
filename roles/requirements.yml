@@ -1,0 +1,6 @@
+---
+
+- name: network-backup
+  src: https://github.com/ciscops/ansible-network-backup
+  scm: git
+  version: master
