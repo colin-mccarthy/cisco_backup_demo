@@ -6,3 +6,5 @@
         name: network-backup
       vars:
         network_backup_repository: 'git@github.com:colin-mccarthy/ansible_network_backups.git'
+        git_name: "{{ git_name }}"
+
